@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @danielnolting
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on whatever
 
 <!---
